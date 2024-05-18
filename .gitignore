@@ -2,4 +2,5 @@
 .Rproj.user
 deploy.r
 rsconnect/
+*.Rproj
 test.R
